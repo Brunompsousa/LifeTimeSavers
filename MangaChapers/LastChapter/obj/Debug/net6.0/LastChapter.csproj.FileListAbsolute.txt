@@ -1,0 +1,30 @@
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\bin\Debug\net6.0\LastChapter.exe
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\bin\Debug\net6.0\LastChapter.deps.json
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\bin\Debug\net6.0\LastChapter.runtimeconfig.json
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\bin\Debug\net6.0\LastChapter.dll
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\bin\Debug\net6.0\LastChapter.pdb
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.csproj.AssemblyReference.cache
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.AssemblyInfoInputs.cache
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.AssemblyInfo.cs
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.csproj.CoreCompileInputs.cache
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.dll
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\refint\LastChapter.dll
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.pdb
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\LastChapter.genruntimeconfig.cache
+C:\Users\Brums\Documents\Visual Studio 2022\Projetos\LastChapter\LastChapter\obj\Debug\net6.0\ref\LastChapter.dll
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\bin\Debug\net6.0\LastChapter.exe
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\bin\Debug\net6.0\LastChapter.deps.json
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\bin\Debug\net6.0\LastChapter.runtimeconfig.json
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\bin\Debug\net6.0\LastChapter.dll
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\bin\Debug\net6.0\LastChapter.pdb
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.csproj.AssemblyReference.cache
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.AssemblyInfoInputs.cache
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.AssemblyInfo.cs
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.csproj.CoreCompileInputs.cache
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.dll
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\refint\LastChapter.dll
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.pdb
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\LastChapter.genruntimeconfig.cache
+C:\Users\Brums\Documents\GitHub\LifeTimeSavers\MangaChapers\LastChapter\obj\Debug\net6.0\ref\LastChapter.dll
