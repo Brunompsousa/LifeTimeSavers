@@ -5,3 +5,12 @@ The links and the numbers on the file need the same order for work.
 The file with the last chapter readed dont update automatic.
 
 The program need some improvements, but is doing what is supposed to do.
+
+Improvements:
+
+• Read the links from file;
+• Chance the last chapter readed to the same file that links or other better method
+• Menu to create/update files inside console
+  • links and last chapter readed
+• etc...
+
